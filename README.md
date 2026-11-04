@@ -3,12 +3,8 @@
 
 An Excel analysis of B2B sales pipeline data: team and agent performance, quarterly revenue trends, and product win rates, plus a dashboard and recommendations.
 
-## Dashboard Preview
-![CRM Sales Dashboard](CRM%20Sales_Dashboard.png)
-
 ## Project Overview
-
-The data covers 8,800 sales opportunities (deals closed March to December 2017) across 30 sales agents, 6 sales teams, 3 regional offices, 7 products and 85 customer accounts.
+The data covers 8,800 sales opportunities (deals closed March to December 2017) across 30 sales agents, 6 sales teams, 3 regional offices, 7 products, and 85 customer accounts.
 
 The analysis answers four questions:
 
@@ -17,11 +13,14 @@ The analysis answers four questions:
 3. How is revenue trending quarter over quarter?
 4. Which products win more deals?
 
+## Dashboard Preview
+![CRM Sales Dashboard](CRM%20Sales_Dashboard.png)
+
 ## Files
 
 | File | Description |
 | --- | --- |
-| `B2B_sales_data_analysis.xlsx` | Cleaned data, PivotTable analysis and the B2B Sales Dashboard |
+| `CRM_sales_data_analysis.xlsx` | Cleaned data, PivotTable analysis and the B2B Sales Dashboard |
 | `Sales_Executive_Summary_and_Recommendations.xlsx` | Executive summary and recommendations |
 | `accounts.xlsx` | Dataset for company accounts |
 | `products.xlsx` | Dataset for company products |
