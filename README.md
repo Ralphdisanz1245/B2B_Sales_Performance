@@ -60,4 +60,4 @@ The workbook combines four tables: **sales pipeline**, **accounts**, **products*
 
 ## Tools
 
-Microsoft Excel (data cleaning, PivotTables, charts, slicers)
+Microsoft Excel (Data cleaning, Power Query, PivotTables, charts, slicers)
