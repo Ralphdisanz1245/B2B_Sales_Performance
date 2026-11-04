@@ -55,7 +55,6 @@ The workbook combines four tables: **sales pipeline**, **accounts**, **products*
 ## Notes
 
 - Win rate and average deal value are displayed figures whose definitions should be confirmed before they are used for targets.
-- Product names are inconsistent across tables (for example, `GTXPro` and `GTX Pro`).
 - The data includes March only for Q1, so Q1 is not comparable with other quarters.
 
 ## Tools
