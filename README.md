@@ -1,5 +1,5 @@
 #B2B_Sales_Performance
-# B2B Sales Performance Analysis
+# CRM Sales Performance Analysis
 
 An Excel analysis of a B2B sales pipeline: team and agent performance, quarterly revenue trends, and product win rates, with a dashboard and a set of recommendations.
 
