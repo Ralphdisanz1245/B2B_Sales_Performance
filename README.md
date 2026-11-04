@@ -23,6 +23,12 @@ The analysis answers four questions:
 | --- | --- |
 | `B2B_sales_data_analysis.xlsx` | Cleaned data, PivotTable analysis and the B2B Sales Dashboard |
 | `Sales_Executive_Summary_and_Recommendations.xlsx` | Executive summary and recommendations |
+| `accounts.xlsx` | Dataset for company accounts |
+| `products.xlsx` | Dataset for company products |
+| `sales_teams.xlsx` | Dataset for sales_teams |
+| `sales_pipeline.xlsx` | Dataset for sales opportunities with close deals, engage date and close date |
+
+
 
 ## Data
 
