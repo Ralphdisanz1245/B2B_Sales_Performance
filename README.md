@@ -1,7 +1,7 @@
 #B2B_Sales_Performance
 # CRM Sales Performance Analysis
 
-An Excel analysis of a B2B sales pipeline: team and agent performance, quarterly revenue trends, and product win rates, with a dashboard and a set of recommendations.
+An Excel analysis of B2B sales pipeline data: team and agent performance, quarterly revenue trends, and product win rates, plus a dashboard and recommendations.
 
 ## Dashboard Preview
 ![CRM Sales Dashboard](CRM%20Sales_Dashboard.png)
