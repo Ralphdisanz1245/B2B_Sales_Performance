@@ -4,7 +4,7 @@
 An Excel analysis of a B2B sales pipeline: team and agent performance, quarterly revenue trends, and product win rates, with a dashboard and a set of recommendations.
 
 ## Dashboard Preview
-![B2B Sales Dashboard](B2B%20Sales_Dashboard.png)
+![CRM Sales Dashboard](CRM%20Sales_Dashboard.png)
 
 ## Project Overview
 
