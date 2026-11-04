@@ -3,7 +3,8 @@
 
 An Excel analysis of a B2B sales pipeline: team and agent performance, quarterly revenue trends, and product win rates, with a dashboard and a set of recommendations.
 
-![B2B Sales Dashboard](images/dashboard.png)
+## Dashboard Preview
+![B2B Sales Dashboard](B2B%20Sales_Dashboard.png)
 
 ## Project Overview
 
@@ -26,9 +27,6 @@ The analysis answers four questions:
 ## Data
 
 The workbook combines four tables: **sales pipeline**, **accounts**, **products** and **sales teams**. Each opportunity moves through the stages Prospecting, Engaging, then Won or Lost. I cleaned the pipeline and joined it with team, region, and account details, and added a won/not-won flag and sales cycle length as part of feature engineering. Field definitions are in the `data_dictionary` sheet.
-
-![Dashboard](B2B Sales_Executive Summary.png)
-![Dashboard](B2B Sales_Insights.png)
 
 ## Key Findings
 
