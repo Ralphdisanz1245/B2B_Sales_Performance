@@ -4,7 +4,7 @@
 An Excel analysis of B2B sales pipeline data: team and agent performance, quarterly revenue trends, and product win rates, plus a dashboard and recommendations.
 
 ## Project Overview
-The data covers 8,800 sales opportunities (deals closed March to December 2017) across 30 sales agents, 6 sales teams, 3 regional offices, 7 products, and 85 customer accounts.
+The data covers 8,800 sales opportunities (deals closed March to December 2017) across 30 sales agents, 6 sales teams, 3 regional offices, 7 products, and 85 customer accounts. The dataset was obtained from Maven Analytics guided projects via [Link Text](https://app.mavenanalytics.io/guided-projects/13ce0362-3a49-473d-9421-9e15ee8adfa7). The project was implemented using Excel and Power Query.
 
 The analysis answers four questions:
 
